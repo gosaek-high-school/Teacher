@@ -1,0 +1,11 @@
+char {
+    border: 1px black solid;
+}
+
+.movable {
+    background-color: blue;
+}
+
+#arrow1 {
+    background-image: url("../res/teacherArrow.png");
+}
